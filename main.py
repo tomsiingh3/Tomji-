@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>🥀🥀𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐏𝐑𝐈𝐍𝐂𝐄 𝐇𝐄𝐑𝐄🥀🥀
+  <title>THE AC BOII TOM
 </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -122,7 +122,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">🥀🥀𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐏𝐑𝐈𝐍𝐂𝐄 𝐇𝐄𝐑𝐄🥀🥀
+    <h1 class="mt-3">THE AC BOII TOM
 </h1>
   </header>
   <div class="container text-center">
@@ -169,10 +169,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2025 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ 𝐋𝐄𝐆𝐄𝐍𝐃 𝐏𝐑𝐈𝐍𝐂𝐄</p>
-    <p> 𝐋𝐄𝐆𝐄𝐍𝐃 𝐏𝐑𝐈𝐍𝐂𝐄<a href="https://www.facebook.com/100064267823693">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>漏 2025 TOM JI</p>
+    <p> TOM <a href="https://www.facebook.com/100053632205200">岽勈熒磩岽� 蕼岽囀€岽� 覔岽徥€ 覔岽€岽勧磭蕶岽忈磸岽�</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+917543864229" class="whatsapp-link">
+      <a href="https://wa.me/+918090235517" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
